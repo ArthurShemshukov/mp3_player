@@ -1,7 +1,6 @@
 let progress = document.getElementById('progress');
 let song = document.getElementById('song');
 let play = document.getElementById('play');
-let rangeVolume = document.getElementById('range_volume');
 
 song.volume = 0.01;
 
